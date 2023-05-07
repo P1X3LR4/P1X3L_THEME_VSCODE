@@ -3,25 +3,32 @@
   "displayName": "PIXEL Theme Dark",
   "description": "Esse tema foi criado para você que busa algo um tanto fora do comum. Então aproveitr meu caro!!",
   "version": "0.0.1",
-  "publisher": "P1X3L-R4",
+  "publisher": "P1X3LTH3M3",
   "author": {
     "name": "Anzo Gabriel"
   },
+  "icon": "./images/icon/logo_512x512.png",
   "engines": {
     "vscode": "^1.78.0"
   },
   "repository": {
     "type": "git",
-    "url": ""
+    "url": "https://github.com/P1X3LR4/P1X3L_THEME_VSCODE"
   },
-  "icon": "images/theme",
+  "bugs": {
+    "url": "https://github.com/P1X3LR4/P1X3L_THEME_VSCODE/issues"
+  },
+  "galleryBanner": {
+    "color": "#191919",
+    "theme": "dark"
+  },
   "categories": [
     "Themes"
   ],
   "contributes": {
     "themes": [
       {
-        "label": "P1X3L TH3M3",
+        "label": "P1X3L TH3M3 DARK",
         "uiTheme": "vs-dark",
         "path": "./themes/P1X3L TH3M3-color-theme.json"
       }

@@ -150,7 +150,7 @@
 		"inputValidation.errorBorder": "#ff3e3e49",
 		"inputValidation.infoBorder": "#004cff54",
 		"inputValidation.warningBorder": "#ffaf0070",
-		"list.activeSelectionBackground": "#d9603b",
+		"list.activeSelectionBackground": "#f54e1b",
 		"list.dropBackground": "#313f55",
 		"list.errorForeground": "#ff3e3e",
 		"list.hoverBackground": "#1a2332",
